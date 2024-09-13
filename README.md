@@ -1,9 +1,6 @@
 # Simple_Bank_System 
 This is a simple console bank system project implemented in C++ using Object-Oriented Programming (OOP). The system allows users to create bank accounts, log in to check their balance, deposit or withdraw money, and update their passwords. It checks for the existence of an account before allowing access to these features.
 
-
-This is a simple bank system project implemented in C++ using Object-Oriented Programming (OOP). The system allows users to create bank accounts, log in to check their balance, deposit or withdraw money, and update their passwords. It checks for the existence of an account before allowing access to these features.
-
 Features : 
 
 1 : Create a New Account:
